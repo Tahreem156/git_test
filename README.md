@@ -1,1 +1,1 @@
-# My Git Practice Project
+Learning Git Basics from Odin Project
